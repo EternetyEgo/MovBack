@@ -1,0 +1,22 @@
+{
+  "name": "movback",
+  "version": "1.0.0",
+  "description": "movie, backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EternetyEgo/MovBack.git"
+  },
+  "author": "EternityEgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EternetyEgo/MovBack/issues"
+  },
+  "homepage": "https://github.com/EternetyEgo/MovBack#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
