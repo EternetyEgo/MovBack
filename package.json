@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/EternetyEgo/MovBack#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "bcrypt": "^5.1.1",
+    "config": "^3.3.12",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.5"
   }
 }
